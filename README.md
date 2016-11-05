@@ -16,3 +16,14 @@ Spec outline for creating articles:
 Expect
 - Article has been created
 - articles path
+
+Listing articles feature test:
+-create 2 articles to display
+
+-list the two articles
+
+Expect
+- Both article titles and bodies to be present
+
+Spec show article
+-show the article and details
