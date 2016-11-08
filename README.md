@@ -27,3 +27,14 @@ Expect
 
 Spec show article
 -show the article and details
+
+Signing up users
+- visit root
+- click on sign-up link
+- email
+- password
+- password confirmation
+- sign-up 
+
+Invalid sign-up
+- do an invalid sign-up and ensure it fails
