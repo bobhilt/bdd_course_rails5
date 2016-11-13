@@ -38,3 +38,7 @@ Signing up users
 
 Invalid sign-up
 - do an invalid sign-up and ensure it fails
+
+Articles associations
+- Articles will belong to users (many:one)
+- foreign key user_id in articles table
