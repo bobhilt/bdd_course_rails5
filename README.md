@@ -42,3 +42,7 @@ Invalid sign-up
 Articles associations
 - Articles will belong to users (many:one)
 - foreign key user_id in articles table
+
+Restrict Access
+- Must be logged in to create article
+- Can only edit/delete own articles
